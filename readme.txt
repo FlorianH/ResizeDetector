@@ -1,3 +1,11 @@
+...............
+.             .
+.   Resize    .
+.  Detector   .
+.             .
+..............x
+
+
 == ResizeDetector javascript library ==
 
 ResizeDetector is a small library, to detect if the browser window's size has been changed.
