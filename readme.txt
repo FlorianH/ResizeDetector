@@ -1,3 +1,6 @@
+! Warning: This code is very old and has not been maintained for a long time.
+You probably do not want to use this anymore.
+
 ...............
 .             .
 .   Resize    .
